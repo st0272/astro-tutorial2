@@ -1,0 +1,19 @@
+{
+  "name": "tutorial",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^3.3.0",
+    "@astrojs/rss": "^4.0.6",
+    "@astrojs/ts-plugin": "^1.8.0",
+    "astro": "^4.9.2",
+    "preact": "^10.18.2"
+  }
+}
